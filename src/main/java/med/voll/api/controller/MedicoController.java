@@ -1,5 +1,6 @@
 package med.voll.api.controller;
 
+import ch.qos.logback.classic.joran.sanity.IfNestedWithinSecondPhaseElementSC;
 import jakarta.validation.Valid;
 import med.voll.api.domain.medico.DadosListagemMedicos;
 import med.voll.api.domain.medico.Medico;
